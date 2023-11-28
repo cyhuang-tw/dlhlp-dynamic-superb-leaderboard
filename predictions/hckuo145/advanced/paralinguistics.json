@@ -11,7 +11,7 @@
     },
     {
         "file": "E_1002414.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -446,7 +446,7 @@
     },
     {
         "file": "E_1000059.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -621,7 +621,7 @@
     },
     {
         "file": "E_1010997.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -861,7 +861,7 @@
     },
     {
         "file": "E_1012678.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -1106,7 +1106,7 @@
     },
     {
         "file": "E_1004614.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -1176,12 +1176,12 @@
     },
     {
         "file": "E_1008614.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
         "file": "E_1013708.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -1346,7 +1346,7 @@
     },
     {
         "file": "E_1003207.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -1366,7 +1366,7 @@
     },
     {
         "file": "E_1001820.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -1836,7 +1836,7 @@
     },
     {
         "file": "E_1004761.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "authentic"
     },
     {
@@ -1866,7 +1866,7 @@
     },
     {
         "file": "E_1000874.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -2001,7 +2001,7 @@
     },
     {
         "file": "E_1011521.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -2071,7 +2071,7 @@
     },
     {
         "file": "E_1000792.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -2186,7 +2186,7 @@
     },
     {
         "file": "E_1013542.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -3031,7 +3031,7 @@
     },
     {
         "file": "E_1006438.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -3201,7 +3201,7 @@
     },
     {
         "file": "E_1010086.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -3531,7 +3531,7 @@
     },
     {
         "file": "E_1012252.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -3871,7 +3871,7 @@
     },
     {
         "file": "E_1010780.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -3886,7 +3886,7 @@
     },
     {
         "file": "E_1002070.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -4081,7 +4081,7 @@
     },
     {
         "file": "E_1007893.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -4251,7 +4251,7 @@
     },
     {
         "file": "E_1003838.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -4776,7 +4776,7 @@
     },
     {
         "file": "E_1013824.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -4871,7 +4871,7 @@
     },
     {
         "file": "E_1002950.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -4921,7 +4921,7 @@
     },
     {
         "file": "E_1002964.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -5021,7 +5021,7 @@
     },
     {
         "file": "E_1012806.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -5636,7 +5636,7 @@
     },
     {
         "file": "E_1009089.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -5841,7 +5841,7 @@
     },
     {
         "file": "E_1013044.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -6296,7 +6296,7 @@
     },
     {
         "file": "E_1001445.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -6471,7 +6471,7 @@
     },
     {
         "file": "E_1000797.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -6596,7 +6596,7 @@
     },
     {
         "file": "E_1001906.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -6756,7 +6756,7 @@
     },
     {
         "file": "E_1014201.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -7791,7 +7791,7 @@
     },
     {
         "file": "E_1009609.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -8266,7 +8266,7 @@
     },
     {
         "file": "E_1013523.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -8716,7 +8716,7 @@
     },
     {
         "file": "E_1004153.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -9006,7 +9006,7 @@
     },
     {
         "file": "E_1005741.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -9196,7 +9196,7 @@
     },
     {
         "file": "E_1000460.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {
@@ -9736,7 +9736,7 @@
     },
     {
         "file": "E_1000985.wav",
-        "prediction": "spoofed",
+        "prediction": "authentic",
         "label": "spoofed"
     },
     {

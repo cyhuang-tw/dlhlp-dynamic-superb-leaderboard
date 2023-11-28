@@ -11,7 +11,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p361_132.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p281_367.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p258_105.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p226_211.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p341_079.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p326_234.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -236,12 +236,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p281_385.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p293_073.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p347_051.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p363_344.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p351_136.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -491,7 +491,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p278_044.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -551,12 +551,12 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p308_132.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p287_355.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -576,12 +576,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p247_074.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p241_164.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -611,7 +611,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p226_023.wav",
-        "prediction": "ten",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -671,7 +671,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p287_141.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -696,7 +696,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p298_319.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -736,7 +736,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p304_098.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -771,12 +771,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p301_149.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p274_035.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -841,7 +841,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p232_049.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -856,12 +856,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p254_292.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p264_375.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -886,7 +886,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p284_349.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -921,7 +921,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p233_046.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -991,7 +991,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p298_374.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1026,7 +1026,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p376_039.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p265_187.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1056,7 +1056,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p345_383.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -1081,12 +1081,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p363_064.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p239_443.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1131,7 +1131,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p260_005.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -1151,7 +1151,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p306_327.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1181,7 +1181,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p310_304.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1231,12 +1231,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p259_417.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p304_093.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1276,7 +1276,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p304_420.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -1286,7 +1286,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p265_278.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1301,7 +1301,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_027.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1321,7 +1321,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p275_015.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p310_320.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -1366,12 +1366,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p279_137.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p374_382.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1426,7 +1426,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p258_174.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p293_117.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1566,7 +1566,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p236_303.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1586,7 +1586,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p305_213.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -1601,12 +1601,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p243_364.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p333_211.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1666,17 +1666,17 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p230_042.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_007.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p364_217.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -1696,7 +1696,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p301_144.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1766,7 +1766,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p261_182.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p245_179.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1836,7 +1836,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p277_332.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1876,12 +1876,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p314_114.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p311_098.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -1911,7 +1911,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p236_353.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1926,7 +1926,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p334_312.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -1961,12 +1961,12 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p250_254.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p281_069.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -1996,7 +1996,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p255_177.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2126,17 +2126,17 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p265_305.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p316_101.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p305_128.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "fifteen"
     },
     {
@@ -2196,7 +2196,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p285_095.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -2261,7 +2261,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p275_160.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2291,12 +2291,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p226_206.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p253_148.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2331,7 +2331,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p239_222.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -2356,7 +2356,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p245_357.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p274_382.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2431,7 +2431,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_106.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2466,7 +2466,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p248_036.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2486,17 +2486,17 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p326_315.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p263_374.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p243_272.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "fifteen"
     },
     {
@@ -2556,7 +2556,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p318_352.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2606,12 +2606,12 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p268_170.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p294_300.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -2651,12 +2651,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p310_178.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p253_224.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2691,17 +2691,17 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p300_270.wav",
-        "prediction": "zero",
+        "prediction": "ten",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p245_018.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p247_272.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -2726,7 +2726,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p280_211.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2736,7 +2736,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p255_212.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -2796,7 +2796,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p311_126.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2836,7 +2836,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p292_367.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -2856,7 +2856,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p257_259.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -2881,7 +2881,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p231_023.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -2981,7 +2981,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p278_239.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -3006,7 +3006,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p265_051.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3051,7 +3051,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p240_220.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3076,7 +3076,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p316_050.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -3096,7 +3096,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p226_023.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3141,7 +3141,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p297_346.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -3181,7 +3181,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p298_194.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3216,17 +3216,17 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p374_419.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p305_310.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p225_221.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3251,7 +3251,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p237_090.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -3306,7 +3306,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p279_020.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3361,7 +3361,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p236_295.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -3376,7 +3376,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p270_040.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3386,7 +3386,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p343_281.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -3406,7 +3406,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p285_164.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -3491,7 +3491,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p262_263.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3531,7 +3531,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p265_252.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -3541,12 +3541,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p287_096.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p330_421.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -3581,7 +3581,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p252_263.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3741,7 +3741,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p374_085.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -3766,7 +3766,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p360_320.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -3796,7 +3796,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p330_194.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3896,7 +3896,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p286_216.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -3906,7 +3906,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p261_361.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3916,7 +3916,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p259_017.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -3931,7 +3931,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p313_006.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4051,7 +4051,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p265_209.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4071,12 +4071,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p295_080.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p276_226.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4106,7 +4106,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p246_111.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4126,7 +4126,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p293_052.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -4136,7 +4136,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p261_151.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4146,7 +4146,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_319.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4206,7 +4206,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p360_324.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4226,7 +4226,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p302_131.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -4266,7 +4266,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p270_038.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4276,7 +4276,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p316_239.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4321,7 +4321,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p286_412.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4331,7 +4331,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p228_217.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4386,7 +4386,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p279_252.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4431,7 +4431,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p271_217.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4456,7 +4456,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p360_068.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4471,7 +4471,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p228_100.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -4521,12 +4521,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p259_228.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p231_277.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -4541,7 +4541,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p238_272.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4556,7 +4556,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p341_368.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4571,7 +4571,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p326_075.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4601,12 +4601,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p226_155.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p226_120.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4621,7 +4621,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p281_403.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4641,7 +4641,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p299_294.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4666,7 +4666,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p234_051.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4676,7 +4676,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p314_414.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4696,7 +4696,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p260_257.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4731,7 +4731,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p272_099.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4761,7 +4761,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p293_224.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4771,7 +4771,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p294_297.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -4801,7 +4801,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p277_086.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4821,7 +4821,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p304_332.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4836,7 +4836,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p250_177.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -4891,7 +4891,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p307_363.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -4991,7 +4991,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p249_303.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5001,7 +5001,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p275_027.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5011,7 +5011,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p260_071.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -5021,7 +5021,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p302_063.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5046,7 +5046,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p277_121.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5076,7 +5076,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p318_095.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5101,7 +5101,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p339_124.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -5136,7 +5136,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p231_188.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -5171,7 +5171,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p251_160.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5241,7 +5241,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p248_027.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5316,7 +5316,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p297_247.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -5331,7 +5331,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p364_107.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5341,7 +5341,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p255_212.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5361,7 +5361,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p240_068.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5391,12 +5391,12 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p272_185.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p279_368.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5436,7 +5436,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p283_450.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5451,7 +5451,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p265_215.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5461,7 +5461,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p256_306.wav",
-        "prediction": "ten",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -5471,7 +5471,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p254_341.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5596,7 +5596,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p317_309.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5616,7 +5616,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p277_184.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5636,7 +5636,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p345_015.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -5696,7 +5696,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p316_161.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5706,7 +5706,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p229_109.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5761,7 +5761,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p229_361.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5811,7 +5811,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_048.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5846,7 +5846,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p305_147.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -5856,7 +5856,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p282_080.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -5886,7 +5886,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p281_345.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5936,7 +5936,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p347_107.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -5986,12 +5986,12 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p347_033.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p316_290.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -6041,12 +6041,12 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p247_371.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p251_053.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -6121,7 +6121,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p248_032.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6196,7 +6196,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p228_167.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -6206,7 +6206,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p363_281.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -6246,7 +6246,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p316_211.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -6261,7 +6261,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p232_092.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6276,17 +6276,17 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p318_377.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p259_072.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p300_154.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -6311,7 +6311,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p360_085.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6326,7 +6326,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p288_179.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -6336,7 +6336,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p360_061.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6396,7 +6396,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p299_234.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6411,7 +6411,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p311_254.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6426,7 +6426,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_279.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6466,7 +6466,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p258_297.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -6566,7 +6566,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p226_158.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -6696,7 +6696,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p360_185.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -6716,12 +6716,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p281_261.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "clean_VCTK-Corpus_16k_p374_221.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -6761,7 +6761,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p298_377.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -6821,12 +6821,12 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p304_232.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p244_228.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -6856,7 +6856,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p259_138.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -6871,7 +6871,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p340_278.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "fifteen"
     },
     {
@@ -6901,7 +6901,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p261_314.wav",
-        "prediction": "ten",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -6946,7 +6946,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p231_460.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -6971,7 +6971,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p232_040.wav",
-        "prediction": "ten",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -6981,7 +6981,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p293_181.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7051,12 +7051,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p249_132.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p308_008.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -7121,7 +7121,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p297_148.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -7166,7 +7166,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_386.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7246,12 +7246,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p318_268.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p315_350.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -7276,7 +7276,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p238_350.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -7306,12 +7306,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p243_376.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "clean_VCTK-Corpus_16k_p257_269.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -7336,7 +7336,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p280_079.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -7391,7 +7391,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p262_303.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7406,7 +7406,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p294_084.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7471,7 +7471,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p243_396.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7571,12 +7571,12 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p227_218.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p280_403.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7626,17 +7626,17 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p340_040.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p267_066.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p275_397.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -7666,7 +7666,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p274_149.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -7701,7 +7701,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p258_267.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7716,7 +7716,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p269_188.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -7736,7 +7736,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p252_131.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7781,7 +7781,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_233.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7791,7 +7791,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p288_131.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -7846,7 +7846,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p298_105.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7856,7 +7856,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p329_079.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7871,7 +7871,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_244.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7896,12 +7896,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p292_287.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p305_018.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7926,7 +7926,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p323_030.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7946,7 +7946,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p298_136.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -7956,12 +7956,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p259_176.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p299_068.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7981,7 +7981,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p243_378.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -7991,7 +7991,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p259_126.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -8016,22 +8016,22 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p345_166.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p260_330.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p360_202.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p280_363.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8056,7 +8056,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p300_158.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -8066,22 +8066,22 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p287_403.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "clean_VCTK-Corpus_16k_p270_136.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p283_083.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p249_063.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8096,12 +8096,12 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p236_102.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p270_233.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -8126,7 +8126,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p233_151.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8151,7 +8151,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p302_096.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -8166,7 +8166,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p266_290.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8186,7 +8186,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p299_093.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8206,7 +8206,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p281_300.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8216,12 +8216,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p245_339.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p326_082.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8276,12 +8276,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p330_237.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p264_145.wav",
-        "prediction": "ten",
+        "prediction": "five",
         "label": "five"
     },
     {
@@ -8351,7 +8351,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p256_206.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8406,12 +8406,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p294_364.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p374_045.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8431,7 +8431,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p233_201.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8481,7 +8481,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_170.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8491,12 +8491,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p347_266.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "clean_VCTK-Corpus_16k_p347_146.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -8526,7 +8526,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p317_058.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8541,7 +8541,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p247_152.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8606,7 +8606,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p287_305.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8641,12 +8641,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p237_160.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "clean_VCTK-Corpus_16k_p347_108.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -8671,7 +8671,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p260_333.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8786,7 +8786,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p295_328.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -8821,7 +8821,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p297_398.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8836,7 +8836,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p271_294.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8896,7 +8896,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p305_135.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -8911,7 +8911,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p326_242.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -8926,12 +8926,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p360_328.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p240_226.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -8946,7 +8946,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p326_214.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9021,7 +9021,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p340_255.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -9036,7 +9036,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p283_194.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -9076,7 +9076,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p282_144.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "fifteen"
     },
     {
@@ -9101,12 +9101,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p245_132.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p280_139.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9126,7 +9126,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p333_093.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9141,7 +9141,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p301_179.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9171,7 +9171,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p229_164.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9236,7 +9236,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p334_185.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9271,12 +9271,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p334_195.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p255_204.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -9301,7 +9301,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p246_338.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -9346,7 +9346,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p297_060.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -9366,7 +9366,7 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p315_085.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
@@ -9426,7 +9426,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p229_142.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9446,7 +9446,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p360_192.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9461,7 +9461,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p252_024.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -9481,7 +9481,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p227_218.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9501,7 +9501,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p252_093.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -9516,7 +9516,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p273_138.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9531,12 +9531,12 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p301_018.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p300_344.wav",
-        "prediction": "five",
+        "prediction": "ten",
         "label": "five"
     },
     {
@@ -9551,7 +9551,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p343_306.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -9576,12 +9576,12 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p284_074.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p329_078.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9591,7 +9591,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p301_247.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9601,7 +9601,7 @@
     },
     {
         "file": "clean_VCTK-Corpus_16k_p362_378.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "clean"
     },
     {
@@ -9641,7 +9641,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p263_325.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "fifteen"
     },
     {
@@ -9656,7 +9656,7 @@
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p227_122.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
@@ -9666,7 +9666,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p260_081.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9676,7 +9676,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p294_162.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9701,7 +9701,7 @@
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p226_163.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9721,7 +9721,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p292_038.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9806,7 +9806,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_093.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9851,7 +9851,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_189.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
@@ -9871,17 +9871,17 @@
     },
     {
         "file": "gaussian_snr5_VCTK-Corpus_16k_p334_327.wav",
-        "prediction": "five",
+        "prediction": "fifteen",
         "label": "five"
     },
     {
         "file": "gaussian_snr15_VCTK-Corpus_16k_p288_149.wav",
-        "prediction": "clean",
+        "prediction": "fifteen",
         "label": "fifteen"
     },
     {
         "file": "gaussian_snr0_VCTK-Corpus_16k_p256_313.wav",
-        "prediction": "zero",
+        "prediction": "five",
         "label": "zero"
     },
     {
@@ -9921,7 +9921,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p306_150.wav",
-        "prediction": "fifteen",
+        "prediction": "ten",
         "label": "ten"
     },
     {
@@ -9991,7 +9991,7 @@
     },
     {
         "file": "gaussian_snr10_VCTK-Corpus_16k_p293_235.wav",
-        "prediction": "ten",
+        "prediction": "fifteen",
         "label": "ten"
     },
     {
